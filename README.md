@@ -4,7 +4,7 @@
  &nbsp; <img height="30" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-mechanic_1f468-200d-1f527.png">
  &nbsp; I write and maintain services for AutoScout24 using Scala on the backend, Typescript and React on the client.
  
- &nbsp; <img height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/scroll_1f4dc.png">
+ &nbsp; <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/325/scroll_1f4dc.png">
  &nbsp; I am a journeyman functional programmer. Working with Cats/Effect, learning ZIO.
 
  &nbsp; <img height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/cloud_2601-fe0f.png">
